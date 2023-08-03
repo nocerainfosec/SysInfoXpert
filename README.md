@@ -45,3 +45,8 @@ Se você tiver alguma dúvida, sugestão ou problema, por favor, sinta-se à von
 
 Autor: NoceraInfosec 
 E-mail: contato@nocerainfosec.com.br
+
+
+## ❤️ Sponsors
+Se você gosta ou depende do trabalho que faço, por favor, considere [aqui](https://github.com/sponsors/nocerainfosec). Eu disponibilizo todos os meus projetos como código aberto e seria realmente incrível se eu pudesse fazer mais disso.
+
